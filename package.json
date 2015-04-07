@@ -1,6 +1,6 @@
 {
   "name": "yaks_plugins",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Collection of Plugins to be used with Yaks Actions",
   "main": "./lib/index.js",
   "scripts": {
